@@ -1,15 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/periklismant/periklismant.github.io.git
-[submodule "themes/hello-friend-ng"]
-	path = themes/hello-friend-ng
-	url = https://github.com/periklismant/hugo-theme-hello-friend-ng.git
-[submodule "themes/hugo-coder"]
-	path = themes/hugo-coder
-	url = https://github.com/periklismant/hugo-coder.git
-[submodule "themes/hugo-simple"]
-	path = themes/hugo-simple
-	url = https://github.com/maolonglong/hugo-simple.git
 [submodule "themes/hugo-profile"]
 	path = themes/hugo-profile
 	url = https://github.com/Periklismant/hugo-profile
