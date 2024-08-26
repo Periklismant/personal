@@ -120,7 +120,7 @@ params:
       disableAbout: false
       disableEducation: false
       disableExperience: false
-      disableProjects: false
+      disablePublications: false
       disableAchievements: false
       disableContact: false
 
@@ -213,6 +213,78 @@ params:
       - title: Google Summer of Code
         content: Contributed to a open source project.
         url: https://example.com
+
+  publications:
+    enable: true
+    title: "Selected Publications"
+    items: 
+      - title: "Human-in-the-Loop: Visual Analytics for Building Models Recognizing Behavioral Patterns in Time Series"
+        authors:
+          - "Natalia V. Andrienko"
+          - "Gennady L. Andrienko"
+          - "Alexander Artikis"
+          - "Periklis Mantenoglou"
+          - "Salvatore Rinzivillo"
+        venue: "IEEE Computer Graphics and Applications"
+        venue_type: "journal"
+        acronym: "CG&A"
+        volume: "44(3)"
+        first_page: "14"
+        last_page: "29"
+        date: "2024"
+        doi: "https://doi.org/10.1109/MCG.2024.3379851"
+      - title: "Online Event Recognition over Noisy Data Streams"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+          - "Georgios Paliouras"
+        venue: "International Journal of Approximate Reasoning"
+        venue_type: "journal"
+        acronym: "IJAR"
+        volume: "161(108993)"
+        first_page: "1"
+        last_page: "30"
+        date: "2023"
+        doi: "https://doi.org/10.1016/j.ijar.2023.108993"
+      - title: "Complex Event Recognition with Allen Relations"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Dimitrios Kelesis"
+          - "Alexander Artikis"
+        venue: "International Conference on Principles of Knowledge Representation and Reasoning"
+        venue_type: "conference"
+        acronym: "KR"
+        volume: ""
+        first_page: "502"
+        last_page: "511"
+        date: "2023"
+        doi: "https://doi.org/10.24963/kr.2023/49"
+      - title: "Stream Reasoning with Cycles"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Manolis Pitsikalis"
+          - "Alexander Artikis"
+        venue: "International Conference on Principles of Knowledge Representation and Reasoning"
+        venue_type: "conference"
+        acronym: "KR"
+        volume: ""
+        first_page: "533"
+        last_page: "553"
+        date: "2022"
+        doi: "https://doi.org/10.24963/kr.2022/56"
+      - title: "Online Probabilistic Interval-based Event Calculus"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+          - "Georgios Paliouras"
+        venue: "European Conference on Artificial Intelligence"
+        venue_type: "conference"
+        acronym: "ECAI"
+        volume: ""
+        first_page: "2624"
+        last_page: "2631"
+        date: "2020"
+        doi: "https://doi.org/10.3233/FAIA200399"
 
   # projects
   projects:
