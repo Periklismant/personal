@@ -1,5 +1,7 @@
 #!/bin/bash
 
+hugo
+
 COMMIT_MESSAGE=$1
 
 cd public
