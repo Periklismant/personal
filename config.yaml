@@ -22,18 +22,18 @@ markup:
     renderer:
       unsafe: true
 
-Menus:
-  main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+        #Menus:
+  #main:
+    # - identifier: blog
+    #  name: Blog
+    #  title: Blog posts
+    #  url: /blogs
+    #   weight: 1
+    # - identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -234,6 +234,22 @@ params:
         date: "2024"
         bib: "https://dblp.uni-trier.de/rec/journals/cga/AndrienkoAAMR24.html?view=bibtex"
         doi: "https://doi.org/10.1109/MCG.2024.3379851"
+      - title: "Extending the Range of Temporal Specifications of the Run-Time Event Calculus"
+        selected: "false"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+        venue: "International Symposium on Temporal Representation and Reasoning"
+        venue_type: "conference"
+        acronym: "TIME"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2024"
+        pdf: ""
+        code: ""
+        bib: ""
+        doi: ""
       - title: "Online Event Recognition over Noisy Data Streams"
         selected: "true"
         authors: 
