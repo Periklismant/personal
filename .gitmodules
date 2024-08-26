@@ -1,6 +1,3 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/periklismant/periklismant.github.io.git
 [submodule "themes/hugo-profile"]
 	path = themes/hugo-profile
 	url = https://github.com/Periklismant/hugo-profile
