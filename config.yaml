@@ -149,7 +149,7 @@ params:
         content: |-
           I am currently working as a research associate with the <a href="https://cer.iit.demokritos.gr/" style="text-decoration:none" target="_blank">Complex Event Recognition group</a> at <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>.
 
-      - title: "Intership"
+      - title: "Internship"
         company: ''
         companyUrl: "https://example.com"
         date: "2018"
