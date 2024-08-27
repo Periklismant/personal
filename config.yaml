@@ -156,7 +156,9 @@ params:
         content: |-
           I developed a chess strategy recognition system at the <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">AI lab SKEL</a> of <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">IIT</a>, <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>. 
           
+          <div style="text-align:center"> 
           <a href="https://github.com/Periklismant/chess_commentator" style="text-decoration:none" target="_blank" class="button">View the project</a>
+          </div>
 
   # Education
   education:
@@ -170,12 +172,17 @@ params:
           url: "https://en.uoa.gr/"
         date: "2019 - 2024"
         content: | 
-          <b>Dissertation Title</b>: "Reasoning over Complex Temporal Specifications and Noisy Data Streams" 
+          <b>Thesis Title</b>: "Reasoning over Complex Temporal Specifications and Noisy Data Streams" 
 
           <b>Supervisors</b>:
             - <a href="https://cgi.di.uoa.gr/~takis/" target="_blank">Panagiotis Stamatopoulos</a>
             - <a href="https://users.iit.demokritos.gr/~a.artikis/" target="_blank">Alexander Artikis</a>
             - <a href="https://users.iit.demokritos.gr/~paliourg/" target="_blank">Georgios Paliouras</a>
+
+            <div style="text-align:center"> 
+            <a href="/phd_mantenoglou.pdf" style="text-decoration:none" target="_blank" class="button">Read the thesis</a>
+            </div>
+
         #GPA: "3.8 out of 5.0"
         #content: |-
         #Extracurricular Activities
