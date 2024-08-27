@@ -199,27 +199,6 @@ params:
           <b>Thesis Title</b>: "Online Probabilistic Interval-based Event Calculus"
 
           <b>Supervisor</b>: <a href="https://www.ece.ntua.gr/en/staff/174" target="_blank">Giorgos Stamou</a>
-  # Achievements
-  achievements:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-        image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
 
   publications:
     enable: true
@@ -487,19 +466,43 @@ params:
         content: an open-source Event Calculus dialect optimised for data stream reasoning.
         link: https://github.com/aartikis/rtec
 
+  # teaching
+  teaching:
+    enable: true
+    title: Teaching Assistant
+    items:
+      - title: Logic Programming
+        level: Undergraduate Course
+        date: 2023
+      - title: Logic Programming
+        level: Undergraduate Course
+        date: 2022
+      - title: Principles of Programming Languages
+        level: Undergraduate Course
+        date: 2022
+      - title: Logic Programming
+        level: Undergraduate Course
+        date: 2021
+      - title: Object-Oriented Programming
+        level: Undergraduate Course
+        date: 2021
+      - title: Data Structures
+        level: Undergraduate Course
+        date: 2020
+
   #rdprojects
   rdprojects:
     enable: true
     title: R&D Projects
     items:
       - title: CREXDATA
-        content: Critical Action Planning over Extreme-Scale Data.
+        content: Critical Action Planning over Extreme-Scale Data, 2023–now.
         link: https://crexdata.eu/
       - title: ENEXA
-        content: Efficient Explainable Learning on Knowledge Graphs.
+        content: Efficient Explainable Learning on Knowledge Graphs, 2023.
         link: https://enexa.eu/
       - title: INFORE
-        content: Interactive Extreme-Scale Analytics and Forecasting.
+        content: Interactive Extreme-Scale Analytics and Forecasting, 2019–2022.
         link: https://infore-project.eu/
 
   #seminars
@@ -507,11 +510,11 @@ params:
     enable: true
     title: Courses & Seminars I Attended
     items:
-      - title: ESSAI & ACAI 2024
-        content: 2nd European Summer School on AI & 21st Advanced Course on AI.
+      - title: ESSAI & ACAI 
+        content: 2nd European Summer School on AI & 21st Advanced Course on AI, 2024.
         link: https://essai2024.di.uoa.gr/
       - title: Prometheus
-        content: An Innovative Tech Transfer Program in Greece.
+        content: An Innovative Tech Transfer Program in Greece, 2021.
 
   #scholarships
   scholarships:
