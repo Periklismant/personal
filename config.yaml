@@ -475,11 +475,55 @@ params:
           presenters:
             - "Periklis Mantenoglou"
 
-  
+  # software
+  software:
+    enable: true
+    title: Software
+    items:
+      - title: oPIEC
+        content: an open-source implementation of the Event Calculus for reasoning over noisy data streams.
+        link: https://github.com/periklismant/opiec
+      - title: RTEC
+        content: an open-source Event Calculus dialect optimised for data stream reasoning.
+        link: https://github.com/aartikis/rtec
+
+  #rdprojects
+  rdprojects:
+    enable: true
+    title: R&D Projects
+    items:
+      - title: CREXDATA
+        content: Critical Action Planning over Extreme-Scale Data.
+        link: https://crexdata.eu/
+      - title: ENEXA
+        content: Efficient Explainable Learning on Knowledge Graphs.
+        link: https://enexa.eu/
+      - title: INFORE
+        content: Interactive Extreme-Scale Analytics and Forecasting.
+        link: https://infore-project.eu/
+
+  #seminars
+  seminars:
+    enable: true
+    title: Courses & Seminars I Attended
+    items:
+      - title: ESSAI & ACAI 2024
+        content: 2nd European Summer School on AI & 21st Advanced Course on AI.
+        link: https://essai2024.di.uoa.gr/
+      - title: Prometheus
+        content: An Innovative Tech Transfer Program in Greece.
+
+  #scholarships
+  scholarships:
+    enable: true
+    title: Scholarships
+    items:
+      - title: Hellenic Foundation for Research & Innovatio 
+        content: Scholarship for PhD Candidates
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
