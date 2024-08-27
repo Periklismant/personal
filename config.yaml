@@ -150,8 +150,8 @@ params:
           I am currently working as a research associate with the <a href="https://cer.iit.demokritos.gr/" style="text-decoration:none" target="_blank">Complex Event Recognition group</a> at <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>.
 
       - title: "Internship"
-        company: ''
-        companyUrl: "https://example.com"
+        #company: ''
+        #companyUrl: "https://example.com"
         date: "2018"
         content: |-
           I developed a chess strategy recognition system at the <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">AI lab SKEL</a> of <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">IIT</a>, <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>. 
@@ -225,6 +225,7 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      # The items in this list need to be in *descending chronological order*.
       - title: "Human-in-the-Loop: Visual Analytics for Building Models Recognizing Behavioral Patterns in Time Series"
         authors:
           - "Natalia V. Andrienko"
@@ -326,6 +327,34 @@ params:
         code: "https://github.com/aartikis/RTEC"
         bib: "https://dblp.org/rec/conf/kr/MantenoglouPA22.html?view=bibtex"
         doi: "https://doi.org/10.24963/kr.2022/56"
+      - title: "Towards Stream Reasoning with Deadlines"
+        selected: "false"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Manolis Pitsikalis"
+          - "Alexander Artikis"
+        venue: "Technical Communications of the International Conference on Logic Programming"
+        venue_type: "conference"
+        acronym: "ICLP"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2022"
+        doi: "https://doi.org/10.4204/EPTCS.364"
+      - title: "Towards Streams of Events with Temporally-Constrained Effects"
+        selected: "false"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Manolis Pitsikalis"
+          - "Alexander Artikis"
+        venue: "Technical Communications of the International Conference on Logic Programming"
+        venue_type: "conference"
+        acronym: "ICLP"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2021"
+        doi: "https://doi.org/10.4204/EPTCS.345"
       - title: "Online Probabilistic Interval-based Event Calculus"
         selected: "true"
         authors: 
@@ -341,10 +370,112 @@ params:
         date: "2020"
         pdf: "https://cer.iit.demokritos.gr/publications/papers/2020/ecai2020.pdf"
         slides: "https://cer.iit.demokritos.gr/publications/slides/2020/ecai_presentation.pdf"
-        video: "https://owncloud.skel.iit.demokritos.gr/index.php/s/mezzjWcys4fbnWm"
+        #video: "https://owncloud.skel.iit.demokritos.gr/index.php/s/mezzjWcys4fbnWm"
         code: "https://github.com/Periklismant/oPIEC"
         bib: "https://dblp.uni-trier.de/rec/conf/ecai/MantenoglouAP20.html?view=bibtex"
         doi: "https://doi.org/10.3233/FAIA200399"
+
+  # presentations
+  presentations:
+      title: Talks
+      enable: true
+      items:
+        # The items in this list need to be in *descending chronological order*.
+        - title: Can computers understand what is happening? An introduction to complex event recognition.
+          type: Course
+          venue: 5th ACM Europe Summer School on Data Science
+          venueURL: https://europe.acm.org/seasonal-schools/data-science/2024
+          date: 2024
+          slides: https://cer.iit.demokritos.gr/blog/talks/acm24/
+          presenters:
+            - "Alexander Artikis"
+            - "Periklis Mantenoglou"
+        - title: Stream Reasoning with the Run-Time Event Calculus.
+          type: Invited Talk
+          venue: University of Oslo
+          venueURL: https://www.uio.no/english/
+          date: 2023
+          slides: slides/rtec_uio.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Probabilistic Interval-based Event Recognition
+          type: Invited Talk
+          venue: Norwegian Computing Center
+          venueURL: https://nr.no/en/
+          date: 2023
+          slides: slides/prob_nr.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Complex Event Recognition with Allen Relations.
+          type: Paper Presentation
+          venue: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR)
+          date: 2023
+          slides: https://cer.iit.demokritos.gr/publications/slides/2023/rtecallen.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Online Reasoning under Uncertainty with the Event Calculus.
+          type: Invited Talk
+          venue: 9th Workshop on Probabilistic Logic Programming (PLP)
+          venueURL: https://web.archive.org/web/20230409102600/https://stoics.org.uk/~plp2022/
+          date: 2022
+          slides: https://cer.iit.demokritos.gr/blog/talks/plp22/
+          presenters:
+            - "Alexander Artikis"
+            - "Periklis Mantenoglou"
+        - title: Stream Reasoning with Cycles.
+          type: Paper Presentation
+          venue: 19th International Conference on Principles of Knowledge Representation and Reasoning (KR)
+          date: 2022
+          slides: https://cer.iit.demokritos.gr/publications/slides/2022/mantenoglou-kr22.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Towards Stream Reasoning with Deadlines.
+          type: Paper Abstract Presentation
+          venue: 38th International Conference on Logic Programming (ICLP)
+          date: 2022
+          slides: slides/mantenoglou-iclp22.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Optimisation Methods for Complex Event Recognition.
+          type: Doctoral Consortium
+          venue: 19th International Conference on Principles of Knowledge Representation and Reasoning (KR)
+          date: 2022
+          slides: 
+          poster: posters/kr22.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Stream Reasoning with the Run-Time Event Calculus 
+          type: Invited Talk
+          venue: Ludwig Maximilian University of Munich
+          venueURL: https://www.lmu.de/en/index.html 
+          date: 2021
+          slides: slides/rtec_lmu.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+            - "Alexander Artikis"
+        - title: Towards Streams of Events with Temporally-Constrained Effects.
+          type: Paper Abstract Presentation
+          venue: 37th International Conference on Logic Programming (ICLP)
+          date: 2021
+          slides: slides/mantenoglou-iclp21.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Online Probabilistic Interval-based Event Calculus.
+          type: Paper Presentation
+          venue: 24th European Conference on Artificial Intelligence (ECAI)
+          date: 2020
+          slides: https://cer.iit.demokritos.gr/publications/slides/2020/ecai_presentation.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: Online Probabilistic Interval-based Event Calculus.
+          type: Doctoral Consortium 
+          venue: 17th International Conference on Principles of Knowledge Representation and Reasoning (KR)
+          date: 2020
+          #slides: 
+          presenters:
+            - "Periklis Mantenoglou"
+
+  
 
   # projects
   projects:
