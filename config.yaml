@@ -518,8 +518,8 @@ params:
     enable: true
     title: Scholarships
     items:
-      - title: Hellenic Foundation for Research & Innovatio 
-        content: Scholarship for PhD Candidates
+      - title: Hellenic Foundation for Research & Innovation
+        content: Scholarship for PhD Candidates, 2022–2024.
 
   # projects
   projects:
