@@ -130,7 +130,7 @@ params:
     title: "About Me"
     content: |-
       I am an associate researcher in artificial intelligence with a background in electrical and computer engineering.
-      I am current working with the <a href="https://cer.iit.demokritos.gr/" target="_blank">Complex Event Recognition group</a> at <a href="https://www.demokritos.gr/" target="_blank">NCSR "Demokritos"</a> in Athens, Greece.
+      I am currently working with the <a href="https://cer.iit.demokritos.gr/" target="_blank">Complex Event Recognition group</a> at <a href="https://www.demokritos.gr/" target="_blank">NCSR "Demokritos"</a> in Athens, Greece.
       My research involves stream reasoning, (probabilistic) logic programming and composite event recognition.
       Some additional research areas that I find interesting are\: temporal logics, multi-agent systems and neuro-symbolic AI.
     image: /images/photo.jpg
@@ -408,7 +408,7 @@ params:
           slides: https://cer.iit.demokritos.gr/publications/slides/2022/mantenoglou-kr22.pdf
           presenters:
             - "Periklis Mantenoglou"
-        - title: Towards Stream Reasoning with Deadlines.
+        - title: Stream Reasoning with Deadlines.
           type: Paper Abstract Presentation
           venue: 38th International Conference on Logic Programming (ICLP)
           date: 2022
@@ -436,7 +436,7 @@ params:
           type: Paper Abstract Presentation
           venue: 37th International Conference on Logic Programming (ICLP)
           date: 2021
-          slides: slides/mantenoglou-iclp21.pdf
+          slides: slides/mantenoglou_iclp21.pdf
           presenters:
             - "Periklis Mantenoglou"
         - title: Online Probabilistic Interval-based Event Calculus.
@@ -474,21 +474,27 @@ params:
       - title: Logic Programming
         level: Undergraduate Course
         date: 2023
+        link: https://www.di.uoa.gr/en/studies/undergraduate/293
       - title: Logic Programming
         level: Undergraduate Course
         date: 2022
+        link: https://www.di.uoa.gr/en/studies/undergraduate/293
       - title: Principles of Programming Languages
         level: Undergraduate Course
         date: 2022
+        link: https://www.di.uoa.gr/en/studies/undergraduate/117
       - title: Logic Programming
         level: Undergraduate Course
         date: 2021
+        link: https://www.di.uoa.gr/en/studies/undergraduate/293
       - title: Object-Oriented Programming
         level: Undergraduate Course
         date: 2021
+        link: https://www.di.uoa.gr/en/studies/undergraduate/38
       - title: Data Structures
         level: Undergraduate Course
         date: 2020
+        link: https://www.di.uoa.gr/en/studies/undergraduate/34
 
   #rdprojects
   rdprojects:
