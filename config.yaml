@@ -154,7 +154,7 @@ params:
         #companyUrl: "https://example.com"
         date: "2018"
         content: |-
-          I developed a chess strategy recognition system at the <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">AI lab SKEL</a> of <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">IIT</a>, <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>. 
+          I developed a chess strategy recognition system at the <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">AI lab SKEL</a> of <a href="https://www.demokritos.gr" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>. 
           
           <div style="text-align:center"> 
           <a href="https://github.com/Periklismant/chess_commentator" style="text-decoration:none" target="_blank" class="button">View the project</a>
