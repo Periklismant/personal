@@ -182,7 +182,9 @@ params:
             <div style="text-align:center"> 
             <a href="/phd_mantenoglou.pdf" style="text-decoration:none" target="_blank" class="button">Read the thesis</a>
             </div>
-
+            <div style="text-align:center"> 
+            <a href="/phd_presentation.pdf" style="text-decoration:none" target="_blank" class="button">Slides</a>
+            </div>
         #GPA: "3.8 out of 5.0"
         #content: |-
         #Extracurricular Activities
