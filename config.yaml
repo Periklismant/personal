@@ -129,13 +129,13 @@ params:
     enable: true
     title: "About Me"
     content: |-
-      I am a postdoc researcher in artificial intelligence with a background in electrical and computer engineering.
+      I am a postdoctoral researcher in artificial intelligence with a background in electrical and computer engineering.
       I am currently working with the <a href="https://cer.iit.demokritos.gr/" target="_blank">Complex Event Recognition group</a> at <a href="https://www.demokritos.gr/" target="_blank">NCSR "Demokritos"</a> in Athens, Greece.
       My research involves stream reasoning, (probabilistic) logic programming and composite event recognition.
       Some additional research areas that I find interesting are\: temporal logics, multi-agent systems and neuro-symbolic AI.
     image: /images/photo.jpg
     name: Periklis Mantenoglou
-    position: Postdoc Researcher
+    position: Postdoctoral Researcher
 
   # Experience
   experience:
@@ -147,11 +147,9 @@ params:
         companyUrl: "https://cer.iit.demokritos.gr/"
         date: "2024 - now"
       - title: "Research Associate"
-        #company: 'NCSR "Demokritos"'
-        #companyUrl: "https://www.demokritos.gr/"
+        company: 'Complex Event Recognition group at NCSR "Demokritos"'
+        companyUrl: "https://cer.iit.demokritos.gr/"
         date: "2019 - 2024"
-        content: |-
-          I am currently working as a research associate with the <a href="https://cer.iit.demokritos.gr/" style="text-decoration:none" target="_blank">Complex Event Recognition group</a> at <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>.
 
       - title: "Internship"
         #company: ''
