@@ -142,7 +142,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: "Postdoc Researcher"
+      - title: "Postdoctoral Researcher"
         company: 'Complex Event Recognition group at NCSR "Demokritos"'
         companyUrl: "https://cer.iit.demokritos.gr/"
         date: "2024 - now"
