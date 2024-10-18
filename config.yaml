@@ -135,17 +135,21 @@ params:
       Some additional research areas that I find interesting are\: temporal logics, multi-agent systems and neuro-symbolic AI.
     image: /images/photo.jpg
     name: Periklis Mantenoglou
-    position: Research Associate
+    position: Postdoc Researcher
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
+      - title: "Postdoc Researcher"
+        #company: 'NCSR "Demokritos"'
+        #companyUrl: "https://www.demokritos.gr/"
+        date: "2024 - now"
       - title: "Research Associate"
         #company: 'NCSR "Demokritos"'
         #companyUrl: "https://www.demokritos.gr/"
-        date: "2019 - now"
+        date: "2019 - 2024"
         content: |-
           I am currently working as a research associate with the <a href="https://cer.iit.demokritos.gr/" style="text-decoration:none" target="_blank">Complex Event Recognition group</a> at <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>.
 
