@@ -205,6 +205,7 @@ params:
           <b>Supervisor</b>: <a href="https://www.ece.ntua.gr/en/staff/174" target="_blank">Giorgos Stamou</a>
 
   publications:
+    # The items in this list need to be in *descending chronological order*.
     enable: true
     title: "Selected Publications"
     items: 
@@ -224,7 +225,6 @@ params:
         code: "https://github.com/aartikis/rtec"
         bib: ""
         doi: ""
-      # The items in this list need to be in *descending chronological order*.
       - title: "Human-in-the-Loop: Visual Analytics for Building Models Recognizing Behavioral Patterns in Time Series"
         selected: "false"
         authors:
@@ -379,8 +379,8 @@ params:
   presentations:
       title: Talks
       enable: true
+      # The items in this list need to be in *descending chronological order*.
       items:
-        # The items in this list need to be in *descending chronological order*.
         - title: Can computers understand what is happening? An introduction to complex event recognition.
           type: Course
           venue: 5th ACM Europe Summer School on Data Science
@@ -389,6 +389,13 @@ params:
           slides: https://cer.iit.demokritos.gr/blog/talks/acm24/
           presenters:
             - "Alexander Artikis"
+            - "Periklis Mantenoglou"
+        - title: Extending the Range of Temporal Specifications of the Run-Time Event Calculus
+          type: Paper Presentation
+          venue: 31st International Symposium on Temporal Representation and Reasoning (TIME)
+          date: 2024
+          slides: https://www.lirmm.fr/time2024/files/ExtendindRunTimeEventCalculusTIME2024.pdf
+          presenters:
             - "Periklis Mantenoglou"
         - title: Stream Reasoning with the Run-Time Event Calculus.
           type: Invited Talk
@@ -411,6 +418,13 @@ params:
           venue: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR)
           date: 2023
           slides: https://cer.iit.demokritos.gr/publications/slides/2023/rtecallen.pdf
+          presenters:
+            - "Periklis Mantenoglou"
+        - title: An Event Calculus for Run-Time Reasoning
+          type: Paper Abstract Presentation
+          venue: 30th International Symposium on Temporal Representation and Reasoning (TIME)
+          date: 2023
+          slides: https://time2023.time-symposium.org/slides/rtec_time23.pdf
           presenters:
             - "Periklis Mantenoglou"
         - title: Online Reasoning under Uncertainty with the Event Calculus.
