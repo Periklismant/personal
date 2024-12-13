@@ -208,8 +208,25 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Temporal Specification Optimisation for the Event Calculus"
+        selected: "true"
+        authors: 
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+        venue: "AAAI Conference on Artificial Intelligence"
+        venue_type: "conference"
+        acronym: "AAAI"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2025"
+        pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/aaai2025.pdf"
+        code: "https://github.com/aartikis/rtec"
+        bib: ""
+        doi: ""
       # The items in this list need to be in *descending chronological order*.
       - title: "Human-in-the-Loop: Visual Analytics for Building Models Recognizing Behavioral Patterns in Time Series"
+        selected: "false"
         authors:
           - "Natalia V. Andrienko"
           - "Gennady L. Andrienko"
