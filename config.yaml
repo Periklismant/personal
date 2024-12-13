@@ -501,7 +501,7 @@ params:
         content: an open-source Event Calculus dialect optimised for data stream reasoning.
         link: https://github.com/aartikis/rtec
       - title: SimLP
-        content: a similarity metric for logic programs
+        content: a similarity metric for logic programs.
         link: https://github.com/Periklismant/simLP
   # teaching
   teaching:
