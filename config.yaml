@@ -145,20 +145,20 @@ params:
       - title: "Postdoctoral Researcher"
         company: 'Machine Perception and Interaction Lab at Örebro University'
         companyUrl: "https://mpi.aass.oru.se/"
-        date: "January 2025 - now"
+        date: "Jan. 2025 - now"
       - title: "Postdoctoral Researcher"
         company: 'Complex Event Recognition group at NCSR "Demokritos"'
         companyUrl: "https://cer.iit.demokritos.gr/"
-        date: "September 2024 - December 2024"
+        date: "Sept. 2024 - Dec. 2024"
       - title: "Research Associate"
         company: 'Complex Event Recognition group at NCSR "Demokritos"'
         companyUrl: "https://cer.iit.demokritos.gr/"
-        date: "March 2019 - August 2024"
+        date: "Mar. 2019 - Aug. 2024"
 
       - title: "Internship"
         #company: ''
         #companyUrl: "https://example.com"
-        date: "July 2018 - August 2018"
+        date: "Jul. 2018 - Aug. 2018"
         content: |-
           I developed a chess strategy recognition system at the <a href="https://www.skel.ai" style="text-decoration:none" target="_blank">AI lab SKEL</a> of <a href="https://www.demokritos.gr" style="text-decoration:none" target="_blank">NCSR "Demokritos"</a>. 
           
@@ -176,7 +176,7 @@ params:
         school:
           name: "National & Kapodistrian University of Athens"
           url: "https://en.uoa.gr/"
-        date: "2019 - 2024"
+        date: "Dec. 2019 - Sept. 2024"
         content: | 
           <b>Thesis Title</b>: "Reasoning over Complex Temporal Specifications and Noisy Data Streams" 
 
@@ -200,7 +200,7 @@ params:
         school:
           name: "National Technical University of Athens"
           url: "https://www.ntua.gr/en/"
-        date: "2014 - 2019"
+        date: "Oct. 2014 - 2019"
         content: |
           <b>GPA</b>: 9,04 out of 10  
 
@@ -226,6 +226,9 @@ params:
         last_page: ""
         date: "2025"
         pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/aaai2025.pdf"
+        slides: "slides/aaai25.pdf"
+        video: "videos/aaai25.pdf"
+        poster: "posters/aaai25.pdf"
         code: "https://github.com/aartikis/rtec"
         bib: ""
         doi: ""
