@@ -200,7 +200,7 @@ params:
         school:
           name: "National Technical University of Athens"
           url: "https://www.ntua.gr/en/"
-        date: "Oct. 2014 - 2019"
+        date: "Oct. 2014 - Nov. 2019"
         content: |
           <b>GPA</b>: 9,04 out of 10  
 
@@ -227,7 +227,7 @@ params:
         date: "2025"
         pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/aaai2025.pdf"
         slides: "slides/aaai25.pdf"
-        video: "videos/aaai25.pdf"
+        video: "videos/aaai25.mp4"
         poster: "posters/aaai25.pdf"
         code: "https://github.com/aartikis/rtec"
         bib: ""
