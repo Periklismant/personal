@@ -213,6 +213,26 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Generating Activity Definitions with Large Language Models"
+        selected: "true"
+        authors:
+          - "Andreas Kouvaras"
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+        venue: "International Conference on Extending Database Technologies"
+        venue_type: "conference"
+        acronym: "EDBT"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2025"
+        pdf: ""
+        slides: ""
+        video: ""
+        poster: ""
+        code: ""
+        bib: ""
+        doi: ""
       - title: "Temporal Specification Optimisation for the Event Calculus"
         selected: "true"
         authors: 
