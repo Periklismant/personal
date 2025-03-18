@@ -226,13 +226,13 @@ params:
         first_page: ""
         last_page: ""
         date: "2025"
-        pdf: ""
+        pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/edbt2025.pdf"
         slides: ""
         video: ""
         poster: ""
-        code: ""
-        bib: ""
-        doi: ""
+        code: "https://github.com/Periklismant/simLP"
+        bib: "https://dblp.uni-trier.de/rec/conf/edbt/KouvarasMA25.html?view=bibtex"
+        doi: "https://openproceedings.org/2025/conf/edbt/paper-295.pdf"
       - title: "Temporal Specification Optimisation for the Event Calculus"
         selected: "true"
         authors: 
@@ -559,6 +559,14 @@ params:
         level: Undergraduate Course
         date: 2020
         link: https://www.di.uoa.gr/en/studies/undergraduate/34
+  #pcmember
+  pcmember: 
+    enable: true
+    title: PC Participation
+    items:
+      - title: ECAI-2025
+      - content: European Conference on Artificial Intelligence, 2025
+      - link: https://ecai2025.org/
 
   #rdprojects
   rdprojects:
