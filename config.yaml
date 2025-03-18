@@ -121,6 +121,7 @@ params:
       disableEducation: false
       disableExperience: false
       disablePublications: false
+      disablePcmember: false
       disableAchievements: false
       disableContact: false
 
