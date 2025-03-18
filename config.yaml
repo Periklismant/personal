@@ -320,6 +320,23 @@ params:
         code: "https://github.com/aartikis/RTEC/tree/allen"
         bib: "https://dblp.org/rec/conf/kr/MantenoglouKA23.html?view=bibtex"
         doi: "https://doi.org/10.24963/kr.2023/49"
+      - title: "Towards a Hybrid Human-Machine Discovery of Complex Movement Patterns"
+        selected: "false"
+        authors:
+          - "Natalia V. Andrienko"
+          - "Gennady L. Andrienko"
+          - "Alexander Artikis"
+          - "Periklis Mantenoglou"
+          - "Salvatore Rinzivillo"
+        venue: "PKDD/ECML Workshops"
+        venue_type: "conference"
+        acronym: "PKDD/ECML"
+        volume: "2134"
+        first_page: "231"
+        last_page: "238"
+        date: "2023"
+        bib: "https://dblp.org/rec/conf/pkdd/AndrienkoAAMR23.html?view=bibtex"
+        doi: "https://link.springer.com/chapter/10.1007/978-3-031-74627-7_16"
       - title: "An Event Calculus for Run-Time Reasoning (Extended Abstract)"
         selected: "false"
         authors: 
@@ -559,14 +576,15 @@ params:
         level: Undergraduate Course
         date: 2020
         link: https://www.di.uoa.gr/en/studies/undergraduate/34
+
   #pcmember
   pcmember: 
     enable: true
     title: PC Participation
     items:
       - title: ECAI-2025
-      - content: European Conference on Artificial Intelligence, 2025
-      - link: https://ecai2025.org/
+        content: European Conference on Artificial Intelligence, 2025
+        link: https://ecai2025.org/
 
   #rdprojects
   rdprojects:
