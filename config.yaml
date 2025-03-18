@@ -425,6 +425,13 @@ params:
       enable: true
       # The items in this list need to be in *descending chronological order*.
       items:
+        - title: Temporal Specification Optimisation for the Event Calculus
+          type: Paper Presentation
+          venue: 39th Annual AAAI Conference on Artificial Intelligence (AAAI)
+          date: 2025
+          slides: https://periklismant.github.io/slides/aaai25.pdf
+          presenters:
+            - "Periklis Mantenoglou"
         - title: Can computers understand what is happening? An introduction to complex event recognition.
           type: Course
           venue: 5th ACM Europe Summer School on Data Science
