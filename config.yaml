@@ -593,6 +593,12 @@ params:
       - title: ECAI-2025
         content: European Conference on Artificial Intelligence, 2025
         link: https://ecai2025.org/
+      - title: KR-2025
+        content: International Conference on Principles of Knowledge Representation and Reasoning, 2025
+        link: https://kr.org/KR2025/
+      - title: TIME-2025
+        content: International Symposium on Temporal Representation and Reasoning, 2025
+        link: https://time2025conf.github.io/
 
   #rdprojects
   rdprojects:
