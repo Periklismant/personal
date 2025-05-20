@@ -544,17 +544,20 @@ params:
   # software
   software:
     enable: true
-    title: Software
+    title: Open-Source Software
     items:
       - title: oPIEC
-        content: an open-source implementation of the Event Calculus for reasoning over noisy data streams.
+        content: an implementation of the Event Calculus for reasoning over noisy data streams.
         link: https://github.com/periklismant/opiec
       - title: RTEC
-        content: an open-source Event Calculus dialect optimised for data stream reasoning.
+        content: an Event Calculus dialect optimised for data stream reasoning.
         link: https://github.com/aartikis/rtec
       - title: SimLP
         content: a similarity metric for logic programs.
         link: https://github.com/Periklismant/simLP
+      - title: LexiCon
+        content: a benchmark for planning under temporal constraints in natural language.
+        link: https://github.com/Periklismant/lexicon_neurips
   # teaching
   teaching:
     enable: true
@@ -606,7 +609,7 @@ params:
     title: R&D Projects
     items:
       - title: CREXDATA
-        content: Critical Action Planning over Extreme-Scale Data, 2023–now.
+        content: Critical Action Planning over Extreme-Scale Data, 2023–2024.
         link: https://crexdata.eu/
       - title: ENEXA
         content: Efficient Explainable Learning on Knowledge Graphs, 2023.
