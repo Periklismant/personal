@@ -132,8 +132,7 @@ params:
     content: |-
       I am a postdoctoral researcher in artificial intelligence with a background in electrical and computer engineering.
       I am currently working with the <a href="https://mpi.aass.oru.se/" target="_blank">Machine Perception and Interaction Lab</a> at <a href="https://www.oru.se/english/" target="_blank">Örebro University</a> in Sweden.
-      My research involves neuro-symbolic AI, stream reasoning, (probabilistic) logic programming, planning and composite event recognition.
-      Some additional research areas that I find interesting are\: temporal logics, multi-agent systems and neuro-symbolic AI.
+      My research involves logic, neuro-symbolic AI, stream reasoning, probabilistic inference, planning and composite event recognition.
     image: /images/photo.jpg
     name: Periklis Mantenoglou
     position: Postdoctoral Researcher
@@ -143,11 +142,17 @@ params:
     enable: true
     title: News
     items:
-      - title: Accepted paper at ECAI-25
+      - title: Accepted paper at ECAI 2025
         content: Sequencing in the Run-time Event Calculus
-      - title: Upcoming tutorial at ECAI-25
+      - title: Upcoming tutorial at ECAI 2025
         content: Making Sense of Streaming Data
         link: https://cer.iit.demokritos.gr/talks/ecai25-tutorial/
+      - title: Accepted paper at EDBT 2025
+        content: Generating Activity Definitions with Large Language Models
+        link: https://cer.iit.demokritos.gr/publications/papers/2025/edbt2025.pdf
+      - title: Accepted paper at AAAI 2025
+        content: Temporal Specification Optimisation for the Event Calculus
+        link: https://cer.iit.demokritos.gr/publications/papers/2025/aaai2025.pdf
 
   # Experience
   experience:
