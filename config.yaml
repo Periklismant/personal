@@ -374,7 +374,7 @@ params:
         bib: "https://dblp.org/rec/conf/time/Mantenoglou23.html?view=bibtex"
         doi: "https://doi.org/10.4230/LIPIcs.TIME.2023.14"
       - title: "Stream Reasoning with Cycles"
-        selected: "true"
+        selected: "false"
         authors: 
           - "Periklis Mantenoglou"
           - "Manolis Pitsikalis"
@@ -420,7 +420,7 @@ params:
         date: "2021"
         doi: "https://doi.org/10.4204/EPTCS.345"
       - title: "Online Probabilistic Interval-based Event Calculus"
-        selected: "true"
+        selected: "false"
         authors: 
           - "Periklis Mantenoglou"
           - "Alexander Artikis"
@@ -446,6 +446,7 @@ params:
       # The items in this list need to be in *descending chronological order*.
       items:
         - title: Temporal Specification Optimisation for the Event Calculus
+          selected: "true"
           type: Paper Presentation
           venue: 39th Annual AAAI Conference on Artificial Intelligence (AAAI)
           date: 2025
@@ -453,6 +454,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Can computers understand what is happening? An introduction to complex event recognition.
+          selected: "true"
           type: Course
           venue: 5th ACM Europe Summer School on Data Science
           venueURL: https://europe.acm.org/seasonal-schools/data-science/2024
@@ -462,6 +464,7 @@ params:
             - "Alexander Artikis"
             - "Periklis Mantenoglou"
         - title: Extending the Range of Temporal Specifications of the Run-Time Event Calculus
+          selected: "false"
           type: Paper Presentation
           venue: 31st International Symposium on Temporal Representation and Reasoning (TIME)
           date: 2024
@@ -469,6 +472,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Stream Reasoning with the Run-Time Event Calculus.
+          selected: "true"
           type: Invited Talk
           venue: University of Oslo
           venueURL: https://www.uio.no/english/
@@ -477,6 +481,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Probabilistic Interval-based Event Recognition
+          selected: "true"
           type: Invited Talk
           venue: Norwegian Computing Center
           venueURL: https://nr.no/en/
@@ -485,6 +490,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Complex Event Recognition with Allen Relations.
+          selected: "false"
           type: Paper Presentation
           venue: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR)
           date: 2023
@@ -492,6 +498,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: An Event Calculus for Run-Time Reasoning
+          selected: "false"
           type: Paper Abstract Presentation
           venue: 30th International Symposium on Temporal Representation and Reasoning (TIME)
           date: 2023
@@ -499,6 +506,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Online Reasoning under Uncertainty with the Event Calculus.
+          selected: "true"
           type: Invited Talk
           venue: 9th Workshop on Probabilistic Logic Programming (PLP)
           venueURL: https://web.archive.org/web/20230409102600/https://stoics.org.uk/~plp2022/
@@ -508,6 +516,7 @@ params:
             - "Alexander Artikis"
             - "Periklis Mantenoglou"
         - title: Stream Reasoning with Cycles.
+          selected: "false"
           type: Paper Presentation
           venue: 19th International Conference on Principles of Knowledge Representation and Reasoning (KR)
           date: 2022
@@ -515,6 +524,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Stream Reasoning with Deadlines.
+          selected: "false"
           type: Paper Abstract Presentation
           venue: 38th International Conference on Logic Programming (ICLP)
           date: 2022
@@ -522,6 +532,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Optimisation Methods for Complex Event Recognition.
+          selected: "false"
           type: Doctoral Consortium
           venue: 19th International Conference on Principles of Knowledge Representation and Reasoning (KR)
           date: 2022
@@ -530,6 +541,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Stream Reasoning with the Run-Time Event Calculus 
+          selected: "true"
           type: Invited Talk
           venue: Ludwig Maximilian University of Munich
           venueURL: https://www.lmu.de/en/index.html 
@@ -539,6 +551,7 @@ params:
             - "Periklis Mantenoglou"
             - "Alexander Artikis"
         - title: Towards Streams of Events with Temporally-Constrained Effects.
+          selected: "false"
           type: Paper Abstract Presentation
           venue: 37th International Conference on Logic Programming (ICLP)
           date: 2021
@@ -546,6 +559,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Online Probabilistic Interval-based Event Calculus.
+          selected: "false"
           type: Paper Presentation
           venue: 24th European Conference on Artificial Intelligence (ECAI)
           date: 2020
@@ -553,6 +567,7 @@ params:
           presenters:
             - "Periklis Mantenoglou"
         - title: Online Probabilistic Interval-based Event Calculus.
+          selected: "false"
           type: Doctoral Consortium 
           venue: 17th International Conference on Principles of Knowledge Representation and Reasoning (KR)
           date: 2020
@@ -612,6 +627,9 @@ params:
     enable: true
     title: PC Participation
     items:
+      - title: AAAI-2026
+        content: AAAI Conference on Artificial Intelligence, 2026
+        link: https://aaai.org/conference/aaai/aaai-26/
       - title: ECAI-2025
         content: European Conference on Artificial Intelligence, 2025
         link: https://ecai2025.org/
