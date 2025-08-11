@@ -152,7 +152,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Research Positions"
     items:
       - title: "Postdoctoral Researcher"
         company: 'Machine Perception and Interaction Lab at Örebro University'
@@ -181,7 +181,7 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Education"
     index: false
     items:
       - title: "PhD in Artificial Intelligence"
