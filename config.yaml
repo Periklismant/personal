@@ -138,6 +138,17 @@ params:
     name: Periklis Mantenoglou
     position: Postdoctoral Researcher
 
+  #news
+  news:
+    enable: true
+    title: News
+    items:
+      - title: Accepted paper at ECAI-25
+        content: Sequencing in the Run-time Event Calculus
+      - title: Upcoming tutorial at ECAI-25
+        content: Making Sense of Streaming Data
+        link: https://cer.iit.demokritos.gr/talks/ecai25-tutorial/
+
   # Experience
   experience:
     enable: true
