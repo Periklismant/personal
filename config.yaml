@@ -132,7 +132,7 @@ params:
     content: |-
       I am a postdoctoral researcher in artificial intelligence with a background in electrical and computer engineering.
       I am currently working with the <a href="https://mpi.aass.oru.se/" target="_blank">Machine Perception and Interaction Lab</a> at <a href="https://www.oru.se/english/" target="_blank">Örebro University</a> in Sweden.
-      My research involves stream reasoning, (probabilistic) logic programming and composite event recognition.
+      My research involves neuro-symbolic AI, stream reasoning, (probabilistic) logic programming, planning and composite event recognition.
       Some additional research areas that I find interesting are\: temporal logics, multi-agent systems and neuro-symbolic AI.
     image: /images/photo.jpg
     name: Periklis Mantenoglou
