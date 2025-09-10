@@ -144,6 +144,7 @@ params:
     items:
       - title: Accepted paper at ECAI 2025
         content: Sequencing in the Run-time Event Calculus
+        link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
       - title: Upcoming tutorial at ECAI 2025
         content: Making Sense of Streaming Data
         link: https://cer.iit.demokritos.gr/talks/ecai25-tutorial/
@@ -242,7 +243,7 @@ params:
         first_page: ""
         last_page: ""
         date: "2025"
-        pdf: ""
+        pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf"
         slides: ""
         video: ""
         poster: ""
