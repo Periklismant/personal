@@ -142,6 +142,10 @@ params:
     enable: true
     title: News
     items:
+      - title: Accepted paper at NeurIPS 2025
+        content: LexiCon\: a Benchmark for Planning under Temporal Constraints in Natural Language
+        link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
+      - title: Upcoming tutorial at ECAI 2025
       - title: Accepted paper at ECAI 2025
         content: Sequencing in the Run-time Event Calculus
         link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
@@ -231,6 +235,27 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
+        selected: "true"
+        authors:
+          - "Periklis Mantenoglou"
+          - "Rishi Hazra"
+          - "Pedro Zuidberg Dos Martires"
+          - "Luc De Raedt"
+        venue: "Annual Conference on Neural Information Processing Systems"
+        venue_type: "conference"
+        acronym: "NeurIPS"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2025"
+        pdf: ""
+        slides: ""
+        video: ""
+        poster: ""
+        code: ""
+        bib: ""
+        doi: ""
       - title: "Sequencing in the Run-Time Event Calculus"
         selected: "true"
         authors:
