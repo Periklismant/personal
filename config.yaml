@@ -143,7 +143,7 @@ params:
     title: News
     items:
       - title: Accepted paper at NeurIPS 2025
-        content: LexiCon\: a Benchmark for Planning under Temporal Constraints in Natural Language
+        content: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
         link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
       - title: Upcoming tutorial at ECAI 2025
       - title: Accepted paper at ECAI 2025
