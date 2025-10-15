@@ -144,7 +144,7 @@ params:
     items:
       - title: Accepted paper at NeurIPS 2025
         content: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
-        link: 
+        link: https://arxiv.org/pdf/2510.05972
       - title: Accepted paper at ECAI 2025
         content: Sequencing in the Run-time Event Calculus
         link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
