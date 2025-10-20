@@ -142,6 +142,8 @@ params:
     enable: true
     title: News
     items:
+      - title: Accepted paper at the Journal of Artificial Intelligence Research
+        content: "Reasoning over Streams of Events with Delayed Effects"
       - title: Accepted paper at NeurIPS 2025
         content: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
         link: https://arxiv.org/pdf/2510.05972
@@ -234,6 +236,26 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Reasoning over Streams of Events with Delayed Effects"
+        selected: "true"
+        authors:
+          - "Periklis Mantenoglou"
+          - "Manolis Pitsikalis"
+          - "Alexander Artikis"
+        venue: "Journal of Artificial Intelligence Research"
+        venue_type: "journal"
+        acronym: "JAIR"
+        volume: "84"
+        first_page: ""
+        last_page: ""
+        date: "2025"
+        pdf: ""
+        slides: ""
+        video: ""
+        poster: ""
+        code: ""
+        bib: ""
+        doi: ""
       - title: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
         selected: "true"
         authors:
