@@ -142,8 +142,9 @@ params:
     enable: true
     title: News
     items:
-      - title: Accepted paper at the Journal of Artificial Intelligence Research
+      - title: Accepted paper at JAIR
         content: "Reasoning over Streams of Events with Delayed Effects"
+        link: https://cer.iit.demokritos.gr/publications/papers/2025/jair2025.pdf
       - title: Accepted paper at NeurIPS 2025
         content: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
         link: https://arxiv.org/pdf/2510.05972
@@ -246,10 +247,10 @@ params:
         venue_type: "journal"
         acronym: "JAIR"
         volume: "84"
-        first_page: ""
-        last_page: ""
+        first_page: "1"
+        last_page: "37"
         date: "2025"
-        pdf: ""
+        pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/jair2025.pdf"
         slides: ""
         video: ""
         poster: ""
