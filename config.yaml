@@ -521,10 +521,6 @@ params:
         code: "https://github.com/Periklismant/oPIEC"
         bib: "https://dblp.uni-trier.de/rec/conf/ecai/MantenoglouAP20.html?view=bibtex"
         doi: "https://doi.org/10.3233/FAIA200399"
-
-      - title: Upcoming tutorial at ECAI 2025
-        content: Making Sense of Streaming Data
-        link: 
   # presentations
   presentations:
       title: Talks
