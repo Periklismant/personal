@@ -242,12 +242,9 @@ params:
         authors:
           - "Periklis Mantenoglou"
           - "Alexander Artikis"
-        venue: "Information and Computation Jouranl"
+        venue: "Information and Computation Journal"
         venue_type: "journal"
-        acronym: ""
         volume: "307"
-        first_page: ""
-        last_page: ""
         date: "2025"
         pdf: "https://periklismant.github.io/papers/ic_preprint.pdf"
         slides: ""
