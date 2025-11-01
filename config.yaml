@@ -237,6 +237,25 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Composite Event Recognition with Arbitrary Specifications"
+        selected: "true"
+        authors:
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+        venue: "Information and Computation Journal"
+        acronym: ""
+        venue_type: "journal"
+        volume: "307"
+        first_page: ""
+        last_page: ""
+        date: "2025"
+        pdf: "https://periklismant.github.io/papers/ic_preprint.pdf"
+        slides: ""
+        video: ""
+        poster: ""
+        code: "https://github.com/aartikis/rtec"
+        bib: ""
+        doi: "https://doi.org/10.1016/j.ic.2025.105373"
       - title: "Reasoning over Streams of Events with Delayed Effects"
         selected: "true"
         authors:
