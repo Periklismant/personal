@@ -142,6 +142,9 @@ params:
     enable: true
     title: News
     items:
+      - title: Accepted paper at Information and Computation Journal
+        content: "Composite Event Recognition with Arbitrary Specifications"
+        link: https://periklismant.github.io/papers/ic_preprint.pdf
       - title: Accepted paper at JAIR
         content: "Reasoning over Streams of Events with Delayed Effects"
         link: https://cer.iit.demokritos.gr/publications/papers/2025/jair2025.pdf
@@ -151,9 +154,6 @@ params:
       - title: Accepted paper at ECAI 2025
         content: Sequencing in the Run-time Event Calculus
         link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
-      - title: Upcoming tutorial at ECAI 2025
-        content: Making Sense of Streaming Data
-        link: https://cer.iit.demokritos.gr/talks/ecai25-tutorial/
       - title: Accepted paper at EDBT 2025
         content: Generating Activity Definitions with Large Language Models
         link: https://cer.iit.demokritos.gr/publications/papers/2025/edbt2025.pdf
@@ -237,6 +237,25 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Composite Event Recognition with Arbitrary Specifications"
+        selected: "true"
+        authors:
+          - "Periklis Mantenoglou"
+          - "Alexander Artikis"
+        venue: "Information and Computation Jouranl"
+        venue_type: "journal"
+        acronym: ""
+        volume: "307"
+        first_page: ""
+        last_page: ""
+        date: "2025"
+        pdf: "https://periklismant.github.io/papers/ic_preprint.pdf"
+        slides: ""
+        video: ""
+        poster: ""
+        code: "https://github.com/aartikis/rtec"
+        bib: ""
+        doi: "https://doi.org/10.1016/j.ic.2025.105373"
       - title: "Reasoning over Streams of Events with Delayed Effects"
         selected: "true"
         authors:
@@ -254,7 +273,7 @@ params:
         slides: ""
         video: ""
         poster: ""
-        code: ""
+        code: "https://github.com/aartikis/rtec"
         bib: ""
         doi: ""
       - title: "LexiCon: a Benchmark for Planning under Temporal Constraints in Natural Language"
@@ -271,11 +290,11 @@ params:
         first_page: ""
         last_page: ""
         date: "2025"
-        pdf: ""
+        pdf: "https://arxiv.org/pdf/2510.05972"
         slides: ""
         video: ""
         poster: ""
-        code: ""
+        code: "https://github.com/Periklismant/lexicon_neurips"
         bib: ""
         doi: ""
       - title: "Sequencing in the Run-Time Event Calculus"
@@ -503,12 +522,33 @@ params:
         bib: "https://dblp.uni-trier.de/rec/conf/ecai/MantenoglouAP20.html?view=bibtex"
         doi: "https://doi.org/10.3233/FAIA200399"
 
+      - title: Upcoming tutorial at ECAI 2025
+        content: Making Sense of Streaming Data
+        link: 
   # presentations
   presentations:
       title: Talks
       enable: true
       # The items in this list need to be in *descending chronological order*.
       items:
+        - title: Making Sense of Streaming Data
+          selected: "true"
+          type: Tutorial
+          venue: 28th European Conference on Artificial Intelligence (ECAI)
+          date: 2025
+          slides: https://cer.iit.demokritos.gr/talks/ecai25-tutorial/
+          presenters:
+            - "Alexander Artikis"
+            - "Periklis Mantenoglou"
+            - "Manolis Pitsikalis"
+        - title: Sequencing in the Run-Time Event Calculus
+          selected: "true"
+          type: Paper Presentation
+          venue: 28th European Conference on Artificial Intelligence (ECAI)
+          date: 2025
+          slides: https://periklismant.github.io/slides/ecai25.pdf
+          presenters:
+            - "Periklis Mantenoglou"
         - title: Temporal Specification Optimisation for the Event Calculus
           selected: "true"
           type: Paper Presentation
