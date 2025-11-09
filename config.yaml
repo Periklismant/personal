@@ -142,6 +142,8 @@ params:
     enable: true
     title: News
     items:
+      - title: Accepted paper at AAAI 2026
+        content: Two Constraint Compilation Methods for Lifted Planning
       - title: Accepted paper at Information and Computation Journal
         content: "Composite Event Recognition with Arbitrary Specifications"
         link: https://periklismant.github.io/papers/ic_preprint.pdf
@@ -237,6 +239,27 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Two Constraint Compilation Methods for Lifted Planning"
+        selected: "true"
+        authors:
+          - "Periklis Mantenoglou"
+          - "Luigi Bonassi"
+          - "Enrico Scala"
+          - "Pedro Zuidberg Dos Martires"
+        venue: "AAAI Conference on Artificial Intelligence"
+        venue_type: "conference"
+        acronym: "AAAI"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2026"
+        pdf: ""
+        slides: ""
+        video: ""
+        poster: ""
+        code: "https://github.com/Periklismant/LiftedTCORE-LCC"
+        bib: ""
+        doi: ""
       - title: "Composite Event Recognition with Arbitrary Specifications"
         selected: "true"
         authors:
@@ -457,7 +480,7 @@ params:
         bib: "https://dblp.org/rec/conf/time/Mantenoglou23.html?view=bibtex"
         doi: "https://doi.org/10.4230/LIPIcs.TIME.2023.14"
       - title: "Stream Reasoning with Cycles"
-        selected: "false"
+        selected: "true"
         authors: 
           - "Periklis Mantenoglou"
           - "Manolis Pitsikalis"
