@@ -155,7 +155,7 @@ params:
         link: https://arxiv.org/pdf/2510.05972
       - title: Accepted paper at ECAI 2025
         content: Sequencing in the Run-time Event Calculus
-        link: https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf
+        link: https://periklismant.github.io/papers/ecai25.pdf
       - title: Accepted paper at EDBT 2025
         content: Generating Activity Definitions with Large Language Models
         link: https://cer.iit.demokritos.gr/publications/papers/2025/edbt2025.pdf
@@ -332,7 +332,7 @@ params:
         first_page: ""
         last_page: ""
         date: "2025"
-        pdf: "https://cer.iit.demokritos.gr/publications/papers/2025/ecai25.pdf"
+        pdf: "https://periklismant.github.io/papers/ecai25.pdf"
         slides: "slides/ecai25.pdf"
         video: ""
         poster: ""
