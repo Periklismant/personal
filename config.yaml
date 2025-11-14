@@ -144,6 +144,7 @@ params:
     items:
       - title: Accepted paper at AAAI 2026
         content: Two Constraint Compilation Methods for Lifted Planning
+        link: https://arxiv.org/pdf/2511.10164
       - title: Accepted paper at Information and Computation Journal
         content: "Composite Event Recognition with Arbitrary Specifications"
         link: https://periklismant.github.io/papers/ic_preprint.pdf
@@ -253,7 +254,7 @@ params:
         first_page: ""
         last_page: ""
         date: "2026"
-        pdf: ""
+        pdf: "https://arxiv.org/pdf/2511.10164"
         slides: ""
         video: ""
         poster: ""
