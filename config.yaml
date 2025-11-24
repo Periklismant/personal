@@ -170,15 +170,15 @@ params:
     title: "Research Positions"
     items:
       - title: "Postdoctoral Researcher"
-        company: 'Machine Perception and Interaction Lab at Örebro University'
+        company: 'Machine Perception and Interaction Lab at Örebro University, Sweden'
         companyUrl: "https://mpi.aass.oru.se/"
         date: "Jan. 2025 - now"
       - title: "Postdoctoral Researcher"
-        company: 'Complex Event Recognition group at NCSR "Demokritos"'
+        company: 'Complex Event Recognition group at NCSR "Demokritos", Greece'
         companyUrl: "https://cer.iit.demokritos.gr/"
         date: "Sept. 2024 - Dec. 2024"
       - title: "Research Associate"
-        company: 'Complex Event Recognition group at NCSR "Demokritos"'
+        company: 'Complex Event Recognition group at NCSR "Demokritos", Greece'
         companyUrl: "https://cer.iit.demokritos.gr/"
         date: "Mar. 2019 - Aug. 2024"
 
@@ -201,7 +201,7 @@ params:
     items:
       - title: "PhD in Artificial Intelligence"
         school:
-          name: "National & Kapodistrian University of Athens"
+          name: "National & Kapodistrian University of Athens, Greece"
           url: "https://en.uoa.gr/"
         date: "Dec. 2019 - Sept. 2024"
         content: | 
@@ -225,7 +225,7 @@ params:
         #- Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Integrated Master's Degree in Electrical & Computer Engineering"
         school:
-          name: "National Technical University of Athens"
+          name: "National Technical University of Athens, Greece"
           url: "https://www.ntua.gr/en/"
         date: "Oct. 2014 - Nov. 2019"
         content: |
@@ -716,33 +716,51 @@ params:
       - title: LexiCon
         content: a benchmark for planning under temporal constraints in natural language.
         link: https://github.com/Periklismant/lexicon_neurips
+      - title: LiftedTCORE
+        content: a lifted compiler for PDDL qualitative state constraints.
+        link: https://github.com/Periklismant/liftedTCORE
   # teaching
   teaching:
+    enable: true
+    title: Teaching
+    items:
+      - title: Programming Fundamentals
+        level: Undergraduate Course
+        place: Örebro University
+        date: 2023
+        link: https://www.di.uoa.gr/en/studies/undergraduate/293
+  teaching_assistance:
     enable: true
     title: Teaching Assistant
     items:
       - title: Logic Programming
         level: Undergraduate Course
+        place: National & Kapodistrian University of Athens
         date: 2023
         link: https://www.di.uoa.gr/en/studies/undergraduate/293
       - title: Logic Programming
         level: Undergraduate Course
+        place: National & Kapodistrian University of Athens
         date: 2022
         link: https://www.di.uoa.gr/en/studies/undergraduate/293
       - title: Principles of Programming Languages
         level: Undergraduate Course
+        place: National & Kapodistrian University of Athens
         date: 2022
         link: https://www.di.uoa.gr/en/studies/undergraduate/117
       - title: Logic Programming
         level: Undergraduate Course
+        place: National & Kapodistrian University of Athens
         date: 2021
         link: https://www.di.uoa.gr/en/studies/undergraduate/293
       - title: Object-Oriented Programming
         level: Undergraduate Course
+        place: National & Kapodistrian University of Athens
         date: 2021
         link: https://www.di.uoa.gr/en/studies/undergraduate/38
       - title: Data Structures
         level: Undergraduate Course
+        place: National & Kapodistrian University of Athens
         date: 2020
         link: https://www.di.uoa.gr/en/studies/undergraduate/34
 
