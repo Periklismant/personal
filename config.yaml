@@ -727,8 +727,8 @@ params:
       - title: Programming Fundamentals
         level: Undergraduate Course
         place: Örebro University
-        date: 2023
-        link: https://www.di.uoa.gr/en/studies/undergraduate/293
+        date: 2025
+        link: https://www.oru.se/utbildning/kurser/kurs/programmering-grundkurs-dt106g
   teaching_assistance:
     enable: true
     title: Teaching Assistant
@@ -799,7 +799,7 @@ params:
 
   #seminars
   seminars:
-    enable: true
+    enable: false
     title: Courses & Seminars I Attended
     items:
       - title: ESSAI & ACAI 
