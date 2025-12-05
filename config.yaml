@@ -563,7 +563,7 @@ params:
             - "Manolis Pitsikalis"
         - title: Sequencing in the Run-Time Event Calculus
           selected: "true"
-          type: Paper Presentation
+          type: Oral Presentation
           venue: 28th European Conference on Artificial Intelligence (ECAI)
           date: 2025
           slides: https://periklismant.github.io/slides/ecai25.pdf
@@ -571,7 +571,7 @@ params:
             - "Periklis Mantenoglou"
         - title: Temporal Specification Optimisation for the Event Calculus
           selected: "true"
-          type: Paper Presentation
+          type: Oral Presentation
           venue: 39th Annual AAAI Conference on Artificial Intelligence (AAAI)
           date: 2025
           slides: https://periklismant.github.io/slides/aaai25.pdf
