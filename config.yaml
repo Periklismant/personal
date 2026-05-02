@@ -142,13 +142,19 @@ params:
     enable: true
     title: News
     items:
+      - title: Accepted paper at KR 2026
+        content: Efficient Temporal Datalog Materialisation for Composite Event Recognition
+        #link: https://arxiv.org/pdf/2511.10164
+      - title: Upcoming tutorial at KR 2026 
+        content: NeuroSymbolic AI for Making Sense of Streaming Data
+        link: https://cer.iit.demokritos.gr/talks/kr26-tutorial/
       - title: Accepted paper at AAAI 2026
         content: Two Constraint Compilation Methods for Lifted Planning
-        link: https://arxiv.org/pdf/2511.10164
-      - title: Accepted paper at Information and Computation Journal
-        content: "Composite Event Recognition with Arbitrary Specifications"
-        link: https://periklismant.github.io/papers/ic_preprint.pdf
-      - title: Accepted paper at JAIR
+        link: https://ojs.aaai.org/index.php/AAAI/article/view/40952
+      #- title: Accepted paper at Information and Computation Journal
+        #content: "Composite Event Recognition with Arbitrary Specifications"
+        #link: https://periklismant.github.io/papers/ic_preprint.pdf
+      - title: Accepted paper at Journal of Artificial Intelligence Research
         content: "Reasoning over Streams of Events with Delayed Effects"
         link: https://cer.iit.demokritos.gr/publications/papers/2025/jair2025.pdf
       - title: Accepted paper at NeurIPS 2025
@@ -240,6 +246,24 @@ params:
     enable: true
     title: "Selected Publications"
     items: 
+      - title: "Efficient Temporal Datalog Materialisation for Composite Event Recognition"
+        selected: "true"
+        authors:
+          - "Periklis Mantenoglou"
+        venue: "International Conference on Principles of Knowledge Representation and Reasoning"
+        venue_type: "conference"
+        acronym: "KR"
+        volume: ""
+        first_page: ""
+        last_page: ""
+        date: "2026"
+        pdf: ""
+        slides: ""
+        video: ""
+        poster: ""
+        code: ""
+        bib: ""
+        doi: ""
       - title: "Two Constraint Compilation Methods for Lifted Planning"
         selected: "true"
         authors:
@@ -769,6 +793,9 @@ params:
     enable: true
     title: PC Participation
     items:
+      - title: KR-2026
+        content: International Conference on Principles of Knowledge Representation and Reasoning, 2026
+        link: https://kr.org/KR2026/
       - title: AAAI-2026
         content: AAAI Conference on Artificial Intelligence, 2026
         link: https://aaai.org/conference/aaai/aaai-26/
