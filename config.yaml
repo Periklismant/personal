@@ -144,7 +144,7 @@ params:
     items:
       - title: Accepted paper at KR 2026
         content: Efficient Temporal Datalog Materialisation for Composite Event Recognition
-        #link: https://arxiv.org/pdf/2511.10164
+        link: https://arxiv.org/pdf/2605.02488
       - title: Upcoming tutorial at KR 2026 
         content: NeuroSymbolic AI for Making Sense of Streaming Data
         link: https://cer.iit.demokritos.gr/talks/kr26-tutorial/
@@ -257,7 +257,7 @@ params:
         first_page: ""
         last_page: ""
         date: "2026"
-        pdf: ""
+        pdf: "https://arxiv.org/pdf/2605.02488"
         slides: ""
         video: ""
         poster: ""
