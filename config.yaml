@@ -799,6 +799,9 @@ params:
       - title: AAAI-2026
         content: AAAI Conference on Artificial Intelligence, 2026
         link: https://aaai.org/conference/aaai/aaai-26/
+      - title: ISWC-2026
+        content: International Semantic Web Conference, 2026
+        link: https://aaai.org/conference/aaai/aaai-26/
       - title: ECAI-2025
         content: European Conference on Artificial Intelligence, 2025
         link: https://ecai2025.org/
@@ -838,8 +841,10 @@ params:
   #scholarships
   scholarships:
     enable: true
-    title: Scholarships
+    title: Awards \& Funding
     items:
+      - title: Hellenic Artificial Intelligence Society
+        content: Best PhD Thesis Award (Runner-up), 2026.
       - title: Hellenic Foundation for Research & Innovation
         content: Scholarship for PhD Candidates, 2022–2024.
 
