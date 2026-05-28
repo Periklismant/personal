@@ -841,7 +841,7 @@ params:
   #scholarships
   scholarships:
     enable: true
-    title: Awards \& Funding
+    title: Awards & Funding
     items:
       - title: Hellenic Artificial Intelligence Society
         content: Best PhD Thesis Award (Runner-up), 2026.
